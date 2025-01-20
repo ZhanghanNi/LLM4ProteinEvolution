@@ -31,4 +31,4 @@ To set up the environment, follow these steps:
 
 ---
 
-For any inquiries or support, please contact [Zhanghan Ni](mailto:zhanghan.ni@example.com).
+For any inquiries or support, please contact [Zhanghan Tony Ni](mailto:nit@carleton.edu).
