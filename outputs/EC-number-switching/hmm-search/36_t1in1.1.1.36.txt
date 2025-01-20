@@ -1,0 +1,38 @@
+# hmmsearch :: search profile(s) against a sequence database
+# HMMER 3.4 (Aug 2023); http://hmmer.org/
+# Copyright (C) 2023 Howard Hughes Medical Institute.
+# Freely distributed under the BSD open source license.
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+# query HMM file:                  /workspace/data/nit/real_tree/1.1.1.36_aligned.hmm
+# target sequence database:        /workspace/data/nit/real_tree/36_t1.fasta
+# output directed to file:         36_t1/36_t1in1.1.1.36.txt
+# - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Query:       1.1.1.36_aligned  [M=249]
+Scores for complete sequences (score includes all domains):
+   --- full sequence ---   --- best 1 domain ---    -#dom-
+    E-value  score  bias    E-value  score  bias    exp  N  Sequence Description
+    ------- ------ -----    ------- ------ -----   ---- --  -------- -----------
+
+   [No hits detected that satisfy reporting thresholds]
+
+
+Domain annotation for each sequence (and alignments):
+
+   [No targets detected that satisfy reporting thresholds]
+
+
+Internal pipeline statistics summary:
+-------------------------------------
+Query model(s):                            1  (249 nodes)
+Target sequences:                         25  (6087 residues searched)
+Passed MSV filter:                         3  (0.12); expected 0.5 (0.02)
+Passed bias filter:                        3  (0.12); expected 0.5 (0.02)
+Passed Vit filter:                         1  (0.04); expected 0.0 (0.001)
+Passed Fwd filter:                         0  (0); expected 0.0 (1e-05)
+Initial search space (Z):                 25  [actual number of targets]
+Domain search space  (domZ):               0  [number of targets reported over threshold]
+# CPU time: 0.01u 0.00s 00:00:00.01 Elapsed: 00:00:00.00
+# Mc/sec: 748.35
+//
+[ok]
