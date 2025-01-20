@@ -1,6 +1,6 @@
 # LLM4ProteinEvolution
 
-This repository contains the codebase for **Language Models for Text-Guided Protein Evolution**, presented at **Workshop on Foundation Models for Science** and **Workshop on AI for New Drug Modalities** during NeurIPS 2024.
+This repository contains the codebase for **Language Models for Text-Guided Protein Evolution**, presented at the **Workshop on Foundation Models for Science** and the **Workshop on AI for New Drug Modalities** during NeurIPS 2024.
 
 ## Citation
 If you find this codebase useful, please consider citing our work:
@@ -16,17 +16,18 @@ url={https://openreview.net/forum?id=jzX3SrFSci}
 }
 ```
 
----
-
-
 ## Installation
 To set up the environment, follow these steps:
 
----
+1. Clone and set up dependencies for the following repositories:
+   - [ProteinDT](https://github.com/chao1224/ProteinDT)
+   - [ESM (Evolutionary Scale Models)](https://github.com/evolutionaryscale/esm)
+
+2. Apply the modifications listed in the `inference` folder to integrate with this codebase.
 
 ## Links
-- [OpenReview Submission](https://openreview.net/forum?id=jzX3SrFSci)
-- [NeurIPS 2024](https://neurips.cc/Conferences/2024)
+- [OpenReview Submission - Foundation Models for Science](https://openreview.net/forum?id=jzX3SrFSci)
+- [OpenReview Submission - AI for New Drug Modalities](https://openreview.net/forum?id=CNla8z0V2p)
 
 ---
 
